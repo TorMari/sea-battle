@@ -1,1 +1,1 @@
-SEA-BATTLE
+sea-battle
