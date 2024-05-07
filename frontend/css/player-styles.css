@@ -1,0 +1,11 @@
+body, #outlet {
+      margin: 0;
+      padding: 30px 50px 50px 50px;
+    }
+
+body {
+    background-image: url('images/ships-computer.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
